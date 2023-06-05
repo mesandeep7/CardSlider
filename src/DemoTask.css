@@ -1,0 +1,9 @@
+/* .carousel-inner{
+    display: flex;
+    flex-direction: row;
+} */
+.carousel {
+    display: flex;
+    flex-direction: row;
+ 
+}
